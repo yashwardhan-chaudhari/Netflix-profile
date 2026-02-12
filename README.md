@@ -1,10 +1,13 @@
 # Netflix Profile API
 
 ## Live Deployment URL
-https://your-render-url.onrender.com
+https://netflix-profile-api.onrender.com
 
 ## Swagger Documentation URL
-https://your-render-url.onrender.com/api-docs
+https://netflix-profile-api.onrender.com/api-docs
+
+## GitHub Repository Link
+https://github.com/rishirbagal-cyber/netflix-profile
 
 ## Required Environment Variables
 PORT
