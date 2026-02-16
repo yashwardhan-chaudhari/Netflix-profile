@@ -7,7 +7,7 @@ https://netflix-profile-api.onrender.com
 https://netflix-profile-api.onrender.com/api-docs
 
 ## GitHub Repository Link
-https://github.com/rishirbagal-cyber/netflix-profile
+https://github.com/yashwardhan-chaudhari/Netflix-profile.git
 
 ## Required Environment Variables
 PORT
